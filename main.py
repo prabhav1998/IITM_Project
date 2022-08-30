@@ -9,7 +9,7 @@ def home():
 
 @app.route('/endpoint')
 def endpoint():
-    return "Hello World"
+    return "Hello World !"
 
 @app.route('/linker')
 def linker():
